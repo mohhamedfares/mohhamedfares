@@ -1,3 +1,5 @@
+![C++ Hello World](https://raw.githubusercontent.com/akshay2211/akshay2211/main/code_hello_world_cpp.png)
+
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 ![Profile Views](https://komarev.com/ghpvc/?username=mohamedfares\&label=Profile%20Views\&color=brightgreen\&style=flat)
 [![wakatime](https://wakatime.com/badge/user/de65bb6a-656d-4719-97a5-9ed3c5797ec7.svg)](https://wakatime.com/@de65bb6a-656d-4719-97a5-9ed3c5797ec7)
