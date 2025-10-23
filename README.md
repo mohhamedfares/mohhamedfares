@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/mohamedfares/mohamedfares/blob/main/assets/hello-world-cpp.png" alt="C++ Hello World" width="600"/>
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Coding-Images/main/C++/cpp-hello-world-dark.png" alt="C++ Hello World Code" width="600"/>
 </p>
 
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
