@@ -1,47 +1,43 @@
+<!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Coding-Images/main/C++/cpp-hello-world-dark.png" alt="C++ Hello World Code" width="600"/>
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner5.png" alt="banner" width="100%" />
 </p>
 
-[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
-![Profile Views](https://komarev.com/ghpvc/?username=mohamedfares\&label=Profile%20Views\&color=brightgreen\&style=flat)
-[![wakatime](https://wakatime.com/badge/user/de65bb6a-656d-4719-97a5-9ed3c5797ec7.svg)](https://wakatime.com/@de65bb6a-656d-4719-97a5-9ed3c5797ec7)
-
-<h2>👋 Hi, I'm Mohamed Fares!</h2>
-<p><em>C++ Developer | Cyber Security Learner | Instructor</em></p>
+<h1 align="center">👋 Hi, I'm Mohamed Fares</h1>
+<h3 align="center">C++ Developer & Instructor | Aspiring Cyber Security Specialist</h3>
 
 ---
 
-### 🚀 About Me
-
-* 💻 I’m a **C++ Developer** with a passion for building efficient and clean code.
-* 🧠 Currently learning and exploring the **Cyber Security** field.
-* 🎓 I teach and help students understand **C++ fundamentals and advanced concepts**.
-* 📚 Always learning new technologies to improve my skills and share knowledge.
-* 🌍 Based in **Egypt**.
+### 💻 C++ Hello World
+<p align="center">
+  <img src="https://raw.githubusercontent.com/krishnathakur0123/Coding-Banners/main/hello-world-cpp.png" alt="C++ Hello World Code" width="70%">
+</p>
 
 ---
 
-### 🧩 Skills & Tools
-
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code> <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code> <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code> <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></code> <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code> <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></code> <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"></code>
-
----
-
-### 📈 GitHub Stats
-
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedfares\&show_icons=true\&hide_border=true\&theme=tokyonight) <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedfares&layout=compact&langs_count=8&theme=tokyonight"/>
+### 🧠 About Me
+- 👨‍💻 I'm a **C++ programmer** and I give **C++ courses** to students.  
+- 🚀 Currently learning and exploring the **Cyber Security** field.  
+- 🎯 My goal is to combine **programming skills** with **security knowledge** to build and protect great systems.  
+- 🧩 Always curious to learn new technologies and help others grow.
 
 ---
 
-### 🔗 Connect With Me
-
-<a href="https://www.linkedin.com/in/mohamed-fares-8b0b26295" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Fares-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-</a>
-
-📫 **Email:** [mohamedfaresmohamedkamal@gmail.com](mailto:mohamedfaresmohamedkamal@gmail.com)
-🌐 **GitHub:** [github.com/mohamedfares](https://github.com/mohamedfares)
+### 🧰 Tech Stack & Skills
+- **Languages:** C++, Python, HTML, CSS, JavaScript  
+- **Tools:** Git, GitHub, VS Code, Visual Studio  
+- **Concepts:** OOP, Problem Solving, Debugging, Data Structures  
+- **Currently Learning:** Cyber Security, Networking Basics  
 
 ---
 
-> 💬 “Keep coding, keep learning, and never stop breaking limits.”
+### 📫 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/mohamed-fares-8b0b26295" target="_blank">
+    <img src="https://img.shields.io/badge/-Mohamed%20Fares-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">⭐️ Created with ❤️ by Mohamed Fares</p>
