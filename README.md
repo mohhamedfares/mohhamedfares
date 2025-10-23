@@ -1,4 +1,6 @@
-![C++ Hello World](https://raw.githubusercontent.com/akshay2211/akshay2211/main/code_hello_world_cpp.png)
+<p align="center">
+  <img src="https://github.com/mohamedfares/mohamedfares/blob/main/assets/hello-world-cpp.png" alt="C++ Hello World" width="600"/>
+</p>
 
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 ![Profile Views](https://komarev.com/ghpvc/?username=mohamedfares\&label=Profile%20Views\&color=brightgreen\&style=flat)
