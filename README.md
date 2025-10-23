@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner5.png" alt="banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Mohamed%20Fares%20|%20C++%20Developer&fontSize=35&fontColor=ffffff&animation=fadeIn" alt="Mohamed Fares Banner"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm Mohamed Fares</h1>
@@ -10,7 +10,7 @@
 
 ### 💻 C++ Hello World
 <p align="center">
-  <img src="https://raw.githubusercontent.com/krishnathakur0123/Coding-Banners/main/hello-world-cpp.png" alt="C++ Hello World Code" width="70%">
+  <img src="https://user-images.githubusercontent.com/74038190/216654099-59c47a65-529a-4655-87a1-2a9c7b8d6d7d.png" alt="C++ Hello World Code" width="70%">
 </p>
 
 ---
